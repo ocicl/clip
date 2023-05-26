@@ -1,0 +1,9 @@
+* clip
+
+A Common Lisp HTML templating engine.
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/Shinmera/clip.git |
+| commit  | 8e9ee9c                                  |
+| systems | clip                                     |
+|---------+------------------------------------------|
