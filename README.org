@@ -4,6 +4,6 @@ A Common Lisp HTML templating engine.
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/Shinmera/clip.git |
-| commit  | 8e9ee9c                                  |
+| commit  | 90c60f8                                  |
 | systems | clip                                     |
 |---------+------------------------------------------|
